@@ -12,7 +12,7 @@
         android:id="@+id/btn_move_activity"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Pindah Activity"
+        android:text="@string/move_activity"
         android:layout_marginBottom="16dp"/>
 
 </LinearLayout>
